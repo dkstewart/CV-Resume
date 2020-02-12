@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.13)  29 OCT 2019 15:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.13)  7 FEB 2020 10:09
 entering extended mode
 **./dstewart_cv.tex
 (dstewart_cv.tex
@@ -1015,44 +1015,49 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 63.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 63.
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
 [1
 
 {C:/Users/Danielle Stewart/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] 
 (dstewart_cv.bbl
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 7.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 8.
 ) [2] [3]
-Overfull \hbox (21.77576pt too wide) in paragraph at lines 229--229
+Overfull \hbox (21.77576pt too wide) in paragraph at lines 239--239
 [][] 
  []
 
 
-Overfull \hbox (21.77576pt too wide) in paragraph at lines 236--236
+Overfull \hbox (21.77576pt too wide) in paragraph at lines 246--246
 [][] 
  []
 
 
-Overfull \hbox (21.77576pt too wide) in paragraph at lines 243--243
+Overfull \hbox (21.77576pt too wide) in paragraph at lines 253--253
 [][] 
  []
 
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 286.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 286.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 296.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 296.
  (dstewart_cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 286.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 286.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 296.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 296.
 Package rerunfilecheck Info: File `dstewart_cv.out' has not changed.
 (rerunfilecheck)             Checksum: 4B085CA8E39659D08919A355D7127CFA;1461.
  ) 
 Here is how much of TeX's memory you used:
- 30440 strings out of 492973
- 561122 string characters out of 3135897
- 659679 words of memory out of 3000000
- 33873 multiletter control sequences out of 15000+200000
- 601452 words of font info for 85 fonts, out of 3000000 for 9000
+ 30448 strings out of 492973
+ 561145 string characters out of 3135897
+ 660608 words of memory out of 3000000
+ 33872 multiletter control sequences out of 15000+200000
+ 601957 words of font info for 90 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,65p,779b,774s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,12n,65p,893b,774s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
@@ -1060,9 +1065,9 @@ ss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmsso17.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/marvosym/marvosym.pfb>
-Output written on dstewart_cv.pdf (4 pages, 162597 bytes).
+Output written on dstewart_cv.pdf (4 pages, 163741 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  22637 words of extra memory for PDF output out of 24883 (max. 10000000)
 
